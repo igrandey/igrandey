@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igrandey
-- 👀 I’m interested in data science, engineering, and analytics
-- 🌱 I’m currently learning ... DAX (always learning), JavaScript, C++, R, Python
+- 👀 I’m interested in data and business intelligence analytics.
+- 🌱 I’m currently learning ... DAX (always learning), SQL, JavaScript, C++, R, Python
 - 💞️ I’m looking to collaborate on any and all the things
 - 📫 How to reach me grandey89@gmail.com
 

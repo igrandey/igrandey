@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igrandey
-- 👀 I’m interested in data and business intelligence analytics.
+- 👀 I’m interested in data and software development.
 - 🌱 I’m currently learning ... JavaScript, Python
 - 📫 How to reach me grandey89@gmail.com
 
